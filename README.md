@@ -4,7 +4,7 @@
 
 ## Software
 - [PGDSpider](http://www.cmpg.unibe.ch/software/PGDSpider/)
--[BayeScan](http://cmpg.unibe.ch/software/BayeScan/)
+- [BayeScan](http://cmpg.unibe.ch/software/BayeScan/)
 
 ## Stats methods
 - [Bayesian method](https://en.wikipedia.org/wiki/Bayesian_inference)
